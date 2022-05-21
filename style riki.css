@@ -1,0 +1,42 @@
+p{
+    text-align: center;
+    font-family:Comic Sans MS;
+    font-size: 30px;
+}
+  
+
+.desicion1{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content:center;
+    flex-direction: column;
+}
+
+.foto1{
+    height: 400px;
+    width: 400px;
+    
+}
+
+.foto2{
+      display: flex;
+      justify-content: center;
+
+}
+
+.foto4{
+   
+    margin-left: 500px;
+}
+
+
+
+
+
+
+
+
+body{
+    background-color:rgb(252, 239, 215) ;
+}
